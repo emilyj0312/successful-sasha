@@ -1,0 +1,112 @@
+body{
+    background-color: #DE9CB3;
+    border: 10px solid #B03B6A;
+    padding: 135px;
+    font-family: 'Indie Flower', cursive;
+}
+h4{
+    font-family: 'Indie Flower', cursive;
+    color: Black;
+    font-size:150% ;
+}
+strong{
+   font-family: 'Indie Flower', cursive; 
+   color:blacK;
+}
+h3{
+    color:blacK;
+    text-align: center;
+}
+
+#fit {
+    background-color: white; 
+    color: black; 
+    border: 3px solid #72AEC3;
+    font-size: 16px;
+    font-family: 'Indie Flower', cursive;
+}
+
+#fit:hover {
+    background-color:#72AEC3 ;
+    color: white;
+}
+#food {
+    background-color: white; 
+    color: black; 
+    border: 3px solid #F9FF94 ;
+    font-size: 16px;
+    font-family: 'Indie Flower', cursive;
+}
+
+#food:hover {
+    background-color:#F9FF94 ;
+    color: black;
+}
+#play {
+    background-color: white; 
+    color: black; 
+    border: 3px solid #B8AFE4 ;
+    font-size: 16px;
+    font-family: 'Indie Flower', cursive;
+}
+
+#play:hover {
+    background-color: #B8AFE4 ;
+    color: white;
+}
+#learn {
+    background-color: white; 
+    color: black; 
+    border: 3px solid #B03B6A ;
+    font-size: 16px;
+    font-family: 'Indie Flower', cursive;
+}
+
+#learn:hover {
+    background-color: #B03B6A ;
+    color: white;
+}
+.start {
+    border-radius: 100%;
+    font-family: 'Indie Flower', cursive;
+    background-color: white;
+}
+.col-md-4{
+    color:black;
+    font-size:150%;
+}
+#healthScore{
+    font-family: 'Indie Flower', cursive;
+    color: Black;
+    font-size:150% ;
+}
+#knowledgeScore{
+    font-family: 'Indie Flower', cursive;
+    color: Black;
+    font-size:150% ;
+}
+#happinessScore{
+    font-family: 'Indie Flower', cursive;
+    color: Black;
+    font-size:150% ;
+}
+p{
+    font-family: 'Indie Flower', cursive;
+    color: Black;
+    font-size:150% ;
+}
+#health{
+    margin: auto;
+    width: 30%;
+    border: 5px solid #F9FF94;
+    }
+#happy{
+    margin: auto;
+    width: 30%;
+    border: 5px solid #F9FF94;
+}
+#know{
+    margin: auto;
+    width: 30%;
+    border: 5px solid #72AEC3;
+}
